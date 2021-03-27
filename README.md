@@ -5,15 +5,15 @@ the online hackathon conducted by Codefest, the annual departmental fest of Comp
 
 ### _Team Name_
 
-* _Member_
-* _Member_
+* Shourya Chambial
+* Dhruv Sood
 
 #### _Project Name_
-
+AnnData (अन्नदाता)
 
 #### Overview
 
-_Explain about your project, the vision behind it and how it helps enhance lifestyle, etc._
+
 
 #### Technology used
 
