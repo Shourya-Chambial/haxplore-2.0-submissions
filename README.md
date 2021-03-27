@@ -17,7 +17,19 @@ AnnData (अन्नदाता)
 
 #### Technology used
 
-_Write about the technologies and tools used and how they were included and used in your application._
+We will be focussing on building a fully-integrated website for this project.
+
+Angular - We will be using this frontend framework​
+
+Bootstrap – We will be using this CSS Library​
+
+NodeJS- We will be using this for our Backend​
+
+MongoDB- We will be using this for our Database Interaction​
+
+HTML, CSS, and JS- We will be using these in general​
+
+NodeMailer – It is used to send a mail from our end whenever someone enquire for  product or list a product.​
 
 #### Screenshots/Demo Video
 
