@@ -5,8 +5,8 @@ the online hackathon conducted by Codefest, the annual departmental fest of Comp
 
 ### _Team Name_
 
-* Shourya Chambial
-* Dhruv Sood
+* Hack Warriors
+
 
 #### _Project Name_
 AnnData (अन्नदाता)
