@@ -48,7 +48,7 @@ NodeMailer – It is used to send a mail from our end whenever someone enquire f
 
 #### Screenshots/Demo Video
 
-_Add some screens and a demo_
+https://www.youtube.com/watch?v=dmDdU0-O_cE
 
 #### Usage
 
